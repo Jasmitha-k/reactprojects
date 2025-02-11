@@ -1,0 +1,4 @@
+after creating a website you can just create a repository and you can follow the steps given there to deploy your website in github
+add a readme file with the description of the project
+and then you can go to vercel.com and continue with github there you can deploy your project
+and then you can paste the output link in the github.
